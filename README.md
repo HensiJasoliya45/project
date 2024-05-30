@@ -1,10 +1,10 @@
-🌐 Website Name: ShishuVatika <br/>
-🎨 Frontend Design:
-Utilized HTML, CSS, Bootstrap, JavaScript, and third-party plugins.
+<center> <h1>🌐 Website Name: ShishuVatika  </h1></center><br/>
+🎨 Frontend Design: 
+Utilized HTML, CSS, Bootstrap, JavaScript, and third-party plugins.<br/>
 🏥 Purpose:
 User-friendly platform for pediatric appointment booking.
-Provides essential healthcare information for children.
+Provides essential healthcare information for children.<br/>
 📅 Specialized Appointment Booking:
-Exclusively designed for children, ensuring a tailored experience.
+Exclusively designed for children, ensuring a tailored experience.<br/>
 📚 Healthcare Resource:
-Serves as a comprehensive resource for pediatric healthcare information.
+Serves as a comprehensive resource for pediatric healthcare information.<br/>
