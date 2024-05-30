@@ -1,4 +1,4 @@
-<center> <h4>🌐 Website Name: ShishuVatika  </h4></center><br/>
+<h1>🌐 Website Name: ShishuVatika  </h1>
 🎨 Frontend Design: 
 Utilized HTML, CSS, Bootstrap, JavaScript, and third-party plugins.<br/>
 🏥 Purpose:
